@@ -6,6 +6,7 @@ import { ThemeProvider } from "styled-components";
 import theme from "./accets/theme"
 import App from "./App";
 import "./accets/css/reset.less";
+import 'antd/dist/antd.min.css';
 import store from "@/store";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));

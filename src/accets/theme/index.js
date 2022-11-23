@@ -3,6 +3,7 @@ const theme = {
   secondarColor: "#00848A",
   textColor: "#484848",
   textColor1: "#767676",
+  secondaryColor:"#00848A",
   textColorSecondary: "#222",
   borderColor:"rgb(235, 235, 235)",
   mixin: {

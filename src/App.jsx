@@ -5,7 +5,6 @@ import AppFooter from "components/app-footer";
 import AppHeader from "components/app-header";
 
 const App = memo(() => {
-
   return (
     <div className="App">
       <div className="header">

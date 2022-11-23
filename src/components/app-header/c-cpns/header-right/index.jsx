@@ -1,6 +1,7 @@
 import React, { memo } from "react";
 import { RightWrapper } from "./style";
-import IconGlobal from "@/accets/svg/icon-global.jsx";
+import IconGlobal from "@/accets/svg/icon_global.jsx";
+
 import IconProfileMenu from "@/accets/svg/icon-profile-menu.jsx";
 import IconProfileAvatar from "@/accets/svg/icon-profile-avatar.jsx";
 const HeaderRight = memo(() => {
