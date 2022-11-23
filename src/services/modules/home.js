@@ -21,3 +21,15 @@ export function getHomeHotRecommendData() {
     url: "/home/hotRecommenddest",
   });
 }
+
+export function getHomeLongforData() {
+  return HYRequest.get({
+    url: "/home/longfor",
+  });
+}
+
+export function getHomePlusData() {
+  return HYRequest.get({
+    url: "/home/plus",
+  });
+}

@@ -3,7 +3,7 @@ export const RoomWrapper = styled.div`
   box-sizing: border-box;
   width: ${(props) => props.itemWidth};
   padding: 8px;
-
+  flex-shrink: 0;
   .inner {
     width: 100%;
   }
